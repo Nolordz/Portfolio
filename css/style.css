@@ -1,6 +1,17 @@
-.img-portfolio{
-
-    width:360px;
-    height:270px;
+.img-portfolio {
+    display: inline;
+    max-width: 265px;
 }
 
+.interest{
+    padding: -0;
+    /*background: dodgerblue;*/
+    background-color: lightblue;
+
+}
+
+.social-icon {
+    font-size: 4.5em;
+    vertical-align: middle;
+    margin: 15px;
+}
