@@ -7,8 +7,9 @@ body {
 }
 
 .vert-text {
-  display: table-cell;
-  vertical-align: middle;
+  /*display: table-cell;
+  vertical-align: middle;*/
+    margin-top:100px;
   text-align: center;
 }
 
@@ -115,7 +116,7 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 
 /* Intro */
