@@ -3,7 +3,12 @@
     max-width: 265px;
 
 }
+.img-port{
+    display: inline;
+    size:145px;
+    width:145px;
 
+}
 .interest{
     padding: -0;
     /*background: dodgerblue;*/
@@ -22,5 +27,5 @@
 }*/
 .link-color {
     color: #080808;
-
 }
+
