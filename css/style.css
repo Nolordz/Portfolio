@@ -1,12 +1,14 @@
 .img-portfolio {
     display: inline;
-    max-width: 265px;
+    size:500px;
+    width:500px;
+
 
 }
 .img-port{
     display: inline;
-    size:145px;
-    width:145px;
+    size:155px;
+    width:155px;
 
 }
 .interest{
@@ -28,4 +30,7 @@
 .link-color {
     color: #080808;
 }
+.portfolio-item{
+    font-size: 25px;
 
+}
