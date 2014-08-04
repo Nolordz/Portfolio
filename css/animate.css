@@ -1161,6 +1161,10 @@ Copyright (c) 2014 Daniel Eden
     transform: none;
   }
 }
+div {
+    -webkit-animation-delay: 1s; /* Safari and Chrome */
+    animation-delay: 1s;
+}
 
 @keyframes fadeInDown {
   0% {
