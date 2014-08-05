@@ -253,6 +253,7 @@ Copyright (c) 2014 Daniel Eden
     transform: translate3d(0, 0, 0);
   }
 
+
   10%, 30%, 50%, 70%, 90% {
     -webkit-transform: translate3d(-10px, 0, 0);
     transform: translate3d(-10px, 0, 0);
@@ -262,6 +263,10 @@ Copyright (c) 2014 Daniel Eden
     -webkit-transform: translate3d(10px, 0, 0);
     transform: translate3d(10px, 0, 0);
   }
+}
+div {
+    -webkit-animation-delay: 5s; /* Safari and Chrome */
+    animation-delay: 5s;
 }
 
 @keyframes shake {
@@ -347,6 +352,7 @@ Copyright (c) 2014 Daniel Eden
     transform: rotate3d(0, 0, 1, 0deg);
   }
 }
+
 
 .swing {
   -webkit-transform-origin: top center;
