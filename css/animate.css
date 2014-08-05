@@ -1162,8 +1162,8 @@ Copyright (c) 2014 Daniel Eden
   }
 }
 div {
-    -webkit-animation-delay: 1s; /* Safari and Chrome */
-    animation-delay: 1s;
+    -webkit-animation-delay: 2s; /* Safari and Chrome */
+    animation-delay: 2s;
 }
 
 @keyframes fadeInDown {
